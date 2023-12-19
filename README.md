@@ -6,7 +6,7 @@ Avances del proyecto portafolio, creación de controladores, creación de rutas 
 
 ## Authors
 
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
+- Cristian Paredes
 
 
 ## Capturas Creación de rutas
